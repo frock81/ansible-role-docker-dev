@@ -1,6 +1,6 @@
-# Skel - Single
+# Ansible Role Docker
 
-Skel for a vagrant single machine development environment.
+Ansible role to install docker and docker-compose.
 
 Steps:
 

@@ -1,0 +1,3 @@
+[submodule "ansible/roles/frock81.docker"]
+	path = ansible/roles/frock81.docker
+	url = https://github.com/frock81/ansible-role-docker

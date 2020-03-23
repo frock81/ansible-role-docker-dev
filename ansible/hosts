@@ -1,2 +1,2 @@
-[pn_server]
-project-name.local ansible_connection=local
+[docker_hosts]
+ansible-role-docker.localdomain ansible_connection=local

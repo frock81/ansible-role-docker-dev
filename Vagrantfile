@@ -2,10 +2,10 @@
 # vi: set ft=ruby :
 
 # Project Name
-$project_name = "project-name"
+$project_name = "ansible-role-docker"
 
 # Check /etc/hosts and provision one ip
-$ip_address = "192.168.4.254"
+$ip_address = "192.168.4.31"
 
 # Sets guest environment variables.
 # @see https://github.com/hashicorp/vagrant/issues/7015
